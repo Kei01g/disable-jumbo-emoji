@@ -18,5 +18,5 @@ Download and put the ```disable-jumbo-emoji.theme.css``` in the themes folder, y
 Go to the **Settings** > **Themes** > **Online Themes**, and add the text below in the **Online Themes** text field:
 
 ```css
-https://github.com/Kei01g/disable-jumbo-emoji/disable-jumbo-emoji.themes.css
+https://raw.githubusercontent.com/Kei01g/disable-jumbo-emoji/refs/heads/main/disable-jumbo-emoji.theme.css
 ```
