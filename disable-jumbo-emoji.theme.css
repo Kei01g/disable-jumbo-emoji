@@ -1,0 +1,13 @@
+/**
+ * @name Disable jumbo emoji
+ * @author kei01g
+ * @description Change big ugly "jumbo" emoji to compact emoji
+ * @version 1.0.0
+ * @source https://github.com/Kei01g/disable-jumbo-emoji
+*/
+
+.emoji.jumboable {
+    width: var(--custom-emoji-size-emoji);
+    height: var(--custom-emoji-size-emoji);
+    min-height: var(--custom-emoji-size-emoji);
+}
