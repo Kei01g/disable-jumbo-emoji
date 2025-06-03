@@ -3,7 +3,7 @@
 ---
 
 # Disable jumbo emoji
-Simple CSS theme that changes big ugly "jumbo" emoji to compact emoji
+Simple CSS theme that changes big ugly "jumbo" emoji to compact emoji for your Discord client mod
 
 ## Installation
 
